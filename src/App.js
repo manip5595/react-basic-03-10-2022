@@ -1,5 +1,5 @@
 // import logo from './logo.svg';
-// import './App.css';
+import './App.css';
 
 import FunctComp from './Components/FunctComp';
 import ClassComp from './Components/ClassComp';
